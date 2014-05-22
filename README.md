@@ -18,27 +18,26 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 See [`pushing-the-app-using-eclipse`](https://github.com/ibmjstart/bluemix-java-sample-twitter-influence-app#pushing-the-app-using-eclipse).
 
-### Download Source ###
+### * Download Source ###
 
 The source for this app is at GitHub and DevOps, you can either download the zip file or clone the repository from the command line, or review the source just using your browser with DevOps.
 
 | Download Zip | [`https://github.com/dewafer/weibo_influence_analyzer/archive/master.zip`](https://github.com/dewafer/weibo_influence_analyzer/archive/master.zip) |
 |-----------|---------------------------------------------------------------------|
 | Git Clone:| `git clone https://github.com/dewafer/weibo_influence_analyzer.git` |
-|-----------|---------------------------------------------------------------------|
 | DevOps:   | [`https://hub.jazz.net/project/dewafer/weibo_influence_analyzer/code`](https://hub.jazz.net/project/dewafer/weibo_influence_analyzer/code)|
 
 
 ## Notice ##
 
-* Due to the restrictions of Weibo APIs, only the owner and the testers of the app have access to the APIs, so if you want to try my deployment on the Bluemix, please tell me your Weibo nickname and I'll put you into the tester name list.(or [apply for test and get involved in here](http://wia-req.ng.bluemix.net/) (íÜï∂))
+* Due to the restrictions of Weibo APIs, only the owner and the testers of the app have access to the APIs, so if you want to try my deployment on the Bluemix, please tell me your Weibo nickname and I'll put you into the tester name list.(or [apply for test and get involved in here](http://wia-req.ng.bluemix.net/) (Chinese))
 
 * If you want to deploy your own app, please apply Weibo API first and fill out `/weibo_influence_analyzer/src/config.properties` with your app keys before deploy. 
 
 
 ## Articles ##
 
-* [Details on development of Weibo Influencer Analyzer.](https://w3-connections.ibm.com/blogs/wangyq/entry/weibo_influence_analyzer%E5%81%9A%E6%88%90%E6%89%8B%E8%AE%B0?lang=zh) ÅiíÜï∂Åj
+* [Details on development of Weibo Influencer Analyzer.](https://w3-connections.ibm.com/blogs/wangyq/entry/weibo_influence_analyzer%E5%81%9A%E6%88%90%E6%89%8B%E8%AE%B0?lang=zh)(Chinese)
 
 
 ## Change log ##
@@ -58,22 +57,22 @@ The source for this app is at GitHub and DevOps, you can either download the zip
 
 ![picture1](screenshots/picture1.png "picture1")
 
-![picture2](screenshots/picture1.png "picture2")
+![picture2](screenshots/picture2.png "picture2")
 
-![picture3](screenshots/picture1.png "picture3")
+![picture3](screenshots/picture3.png "picture3")
 
-![picture4](screenshots/picture1.png "picture4")
+![picture4](screenshots/picture4.png "picture4")
 
-![picture5](screenshots/picture1.png "picture5")
+![picture5](screenshots/picture5.png "picture5")
 
-![picture6](screenshots/picture1.png "picture6")
+![picture6](screenshots/picture6.png "picture6")
 
-![picture7](screenshots/picture1.png "picture7")
+![picture7](screenshots/picture7.png "picture7")
 
-![picture8](screenshots/picture1.png "picture8")
+![picture8](screenshots/picture8.png "picture8")
 
-![picture9](screenshots/picture1.png "picture9")
+![picture9](screenshots/picture9.png "picture9")
 
-![picture10](screenshots/picture1.png "picture10")
+![picture10](screenshots/picture10.png "picture10")
 
-![picture11](screenshots/picture1.png "picture11")
+![picture11](screenshots/picture11.png "picture11")
